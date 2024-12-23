@@ -2,5 +2,6 @@
     "/cv-analysis": "https://icp-ai-service.fly.dev",
     "/grammar-analysis": "https://icp-ai-service.fly.dev",
     "/meal-plan": "https://icp-ai-service.fly.dev",
-    "/budget-plan": "https://icp-api-budget.fly.dev"
+    "/budget-plan": "https://icp-api-budget.fly.dev",
+    "/cv-enhancer": "https://icp-ai-service.fly.dev"
 }
